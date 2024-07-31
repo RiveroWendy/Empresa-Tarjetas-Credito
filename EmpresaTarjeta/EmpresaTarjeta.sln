@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpresaTarjeta", "EmpresaTarjeta\EmpresaTarjeta.csproj", "{9A2AF0DF-B390-49FC-9D4B-9D0DB150A7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{FB8DC08A-F169-44D5-BC17-D87B9302E1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2AF0DF-B390-49FC-9D4B-9D0DB150A7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2AF0DF-B390-49FC-9D4B-9D0DB150A7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2AF0DF-B390-49FC-9D4B-9D0DB150A7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2AF0DF-B390-49FC-9D4B-9D0DB150A7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8DC08A-F169-44D5-BC17-D87B9302E1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8DC08A-F169-44D5-BC17-D87B9302E1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8DC08A-F169-44D5-BC17-D87B9302E1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8DC08A-F169-44D5-BC17-D87B9302E1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED9AF0B-BB54-46F0-8D03-86CDFA16BE7F}
+	EndGlobalSection
+EndGlobal
